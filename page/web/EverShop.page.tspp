@@ -17,13 +17,6 @@
 
 ^^
 
-^^Demo33()
-	--Click on-- {{Men}} 
-	__web > Men > Fn77__ 
-	__ClickAddToCart__ 
-
-^^
-
 ^^one(label:url)
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
