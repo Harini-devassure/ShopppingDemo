@@ -15,7 +15,6 @@
 ^^ClickAddToCart()
 	--Click on-- {{ADDTOCART}} 
 
-^^
 
 ^^one(label:url)
 	--Switch to parent frame-- 
