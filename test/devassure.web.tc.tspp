@@ -9,4 +9,5 @@
 
 
 --Open URL-- [[https://www.google.com/search?q=devassure&oq=devassure&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQxMjdqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+::pageUrl_2 = --Get page URL-- 
 

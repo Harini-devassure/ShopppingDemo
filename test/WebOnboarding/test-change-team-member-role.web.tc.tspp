@@ -2,6 +2,10 @@
 >>summary: Verify that the role of a team member can be changed
 >>tags: 
 >>feature: WebOnboarding
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -12,4 +16,5 @@ Select a new role (Value: Project Manager)
 Click on the 'Save' button --> Verify that the team member's role is updated to the new role (Value: Project Manager)
 ^^
 
+--Go forward-- 
 

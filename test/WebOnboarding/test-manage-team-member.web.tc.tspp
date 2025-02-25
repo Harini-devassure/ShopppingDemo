@@ -2,6 +2,10 @@
 >>summary: Verify that a user can manage team members
 >>tags: 
 >>feature: WebOnboarding
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -12,4 +16,5 @@ Select a new role from the dropdown
 Click on the 'Save' button --> Verify that the team member's role is updated and a confirmation message is displayed
 ^^
 
+--Reload page-- 
 

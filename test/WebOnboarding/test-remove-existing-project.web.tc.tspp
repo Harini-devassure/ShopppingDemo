@@ -2,6 +2,10 @@
 >>summary: Ensure a user can remove an existing project
 >>tags: 
 >>feature: WebOnboarding
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -11,4 +15,5 @@ Select 'Delete' from the menu
 Confirm the deletion in the popup --> Verify that the project is no longer listed in the 'Projects' page
 ^^
 
+--Remove all cookies-- 
 

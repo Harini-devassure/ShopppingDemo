@@ -2,6 +2,10 @@
 >>summary: Verify if user can remove a team member from the organization
 >>tags: 
 >>feature: WebOnboarding
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -10,4 +14,5 @@ Click on the 'Edit' icon next to a team member's name
 In the edit mode, click on 'Remove member' button --> Verify that the team member is removed from the list and no longer has access to the organization
 ^^
 
+::pageUrl_1 = --Get page URL-- 
 

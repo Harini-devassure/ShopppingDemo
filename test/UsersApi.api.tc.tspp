@@ -8,5 +8,5 @@
 >>aiRequestId: 
 
 
-::apiResponse_1 = --Call API-- {{API > FirstAPI}} (([[ss]], [[ii]], [[]])) 
+--Verify status code of http response-- {{}}  [[]] 
 

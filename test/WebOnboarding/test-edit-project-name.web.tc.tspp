@@ -2,6 +2,10 @@
 >>summary: Verify that a user can edit the name of an existing project
 >>tags: 
 >>feature: WebOnboarding
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -13,4 +17,5 @@ Enter a new project name (Value: Updated Project Name)
 Click on the 'Save' button --> Verify that the project card now displays the new project name (Value: Updated Project Name)
 ^^
 
+--Go forward-- 
 
