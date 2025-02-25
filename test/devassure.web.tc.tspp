@@ -9,13 +9,4 @@
 
 
 --Open URL-- [[https://www.google.com/search?q=devassure&oq=devassure&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQxMjdqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
-__web > devassure-GoogleSearch > testt__ 
-__web > DevAssure_TestAutomationPlatform > dev23__ 
---Click on-- {{web > DevAssure_DevAssure > CreateTests}} 
-__web > DevAssure_DevAssure > qwerty2__ 
---Click on-- {{web > Devassure > GetStartedGenerateTestsVSCodeE}} 
-__web > RecordandPlayback_DevAssure > hnk__ 
---Click on-- {{web > Devassure > GetStartedGenerateTestsVSCodeE}} 
---Click on-- {{web > NetworkLogs_DevAssure > ContinuousIntegration}} 
---Click on-- {{web > NetworkLogs_DevAssure > JenkinsPipeline}} 
 
