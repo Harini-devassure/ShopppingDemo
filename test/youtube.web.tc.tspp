@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.google.com/search?q=youtube&oq=youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2NDFqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+__web > youtube-GoogleSearch > fn1__ 
+--Click on-- {{web > YouTube > ytdmastheadiconyticonsmenudiv}} 
+--Click on-- {{web > YouTube > Trending}} 
+

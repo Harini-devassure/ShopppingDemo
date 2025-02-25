@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.google.com/search?q=wikiped&oq=wikiped&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwNTdqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+--Click on-- {{web > wikipedia-GoogleSearch > Wikipedia}} 
+--Click on-- {{web > Wikipedia > WikipediaTheFreeEncyclopediaEn}} 
+--Click on-- {{web > Wikipedia > English}} 
+--Click on-- {{web > Wikipedia_thefreeencyclopedia > JohnHopfield}} 
+--Click on-- {{web > 2024Pont-Sond_attack-Wikipedia > UnitedNationsSecurityCouncil}} 
+

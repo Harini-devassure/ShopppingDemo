@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.google.com/search?q=wikipedia&oq=wikipedia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1MjhqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+--Click on-- {{web > wikipedia-GoogleSearch > Wikipedia}} 
+__web > Wikipedia > gb1__ 
+

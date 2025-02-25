@@ -1,0 +1,22 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+__web > iiitdm-GoogleSearch > IIIT__ [[https://www.google.com/search?q=iiitdm&oq=iiitdm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTQ0OTgyajBqMqgCALACAA&sourceid=chrome&ie=UTF-8]] 
+--Open URL-- [[https://www.google.com/search?q=wikipedia&oq=wikipedia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzBqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+--Click on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Input value-- [[]] --in-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Press keyboard keys-- [[Backspace]] --on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Press keyboard keys-- [[Backspace]] --on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Input value-- [[iiitdm]] --in-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Press keyboard keys-- [[ArrowDown]] --on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Press keyboard keys-- [[ArrowDown]] --on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Press keyboard keys-- [[Enter]] --on-- {{web > wikipedia-GoogleSearch > wikipedia}} 
+--Click on-- {{web > iiitdmjabalpur-GoogleSearch > IIITDMJabalpur}} 
+

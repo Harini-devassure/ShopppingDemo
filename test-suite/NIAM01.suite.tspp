@@ -1,9 +1,10 @@
 {
     "tags": [
-        [
-            "NIAM01"
-        ]
+        []
     ],
     "additionalTests": [],
-    "testType": "web"
+    "testType": "web",
+    "priority": [
+        "P1"
+    ]
 }

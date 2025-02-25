@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.google.com/search?q=amazon&oq=amazon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU0ODlqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+--Click on-- {{web > amazon-GoogleSearch > Amazonin}} 
+--Click on-- {{web > OnlineShoppingsiteinIndia_ShopOnlineforMobiles_Books_Watches_ShoesandMore-Amazon_in > hrefLavaAgniGlassDimensityRepl}} 
+--Click on-- {{web > LavaAgni35G_HeatherGlass_8GB_256GB_India_s1stDualAMOLED_Dimensity7300X_50MPTripleAICamera_66WFastCharge_5000mAhBattery_CleanUI_FreeReplacement_Home_withCharger_Amazon_in_Electronics > RedmiNote13pro5gScarletred8gb2}} 
+--Switch to tab with index-- [[2]] 
+

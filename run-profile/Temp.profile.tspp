@@ -25,5 +25,8 @@
                 }
             ]
         }
-    ]
+    ],
+    "headless": false,
+    "parallelism": 0,
+    "retryCount": 0
 }

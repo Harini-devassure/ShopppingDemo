@@ -9,4 +9,11 @@
 
 
 ::pageUrl_1 = --Get page URL-- 
+--Open URL-- [[https://www.google.com/search?q=wikipedia&oq=wikipedia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI3NDZqMGoyqAIAsAIA&sourceid=chrome&ie=UTF-8]] 
+--Click on-- {{web > wikipedia-GoogleSearch > Wikipedia}} 
+--Click on-- {{web > Wikipedia > English}} 
+--Click on-- {{web > Wikipedia_thefreeencyclopedia > JohnHopfield}} 
+--Click on-- {{web > JohnHopfield-Wikipedia > JohnJosephHopfieldbornJuly1519}} 
+--Click on-- {{web > JohnHopfield-Wikipedia > GeoffreyHinton}} 
+--Click on-- {{web > GeoffreyHinton-Wikipedia > technologicalunemployment}} 
 

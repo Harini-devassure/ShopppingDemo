@@ -1,0 +1,19 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.devassure.io/]] 
+--Click on-- {{web > Devassure > Features}} 
+--Click on-- {{web > Devassure > VSCodeExtension}} 
+--Click on-- {{web > Devassure > VSCodeExtension_2}} 
+--Click on-- {{web > DevAssureAI-Testwhilecodingandfindfunctionalbugs-VisualStudioMarketplace > httpswwwdevassureiodownloads}} 
+--Switch to tab with index-- [[2]] 
+--Open URL-- [[https://www.devassure.io/downloads]] 
+--Click on-- {{web > Devassure > Signupnow}} 
+

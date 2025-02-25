@@ -2,6 +2,10 @@
 >>summary: Verify the maximum credit purchase
 >>tags: 
 >>feature: AICredits
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -13,9 +17,9 @@ Click on 'Buy' --> Verify the transaction completion message
 
 --Open URL-- [[https://app.devassure.io/]] 
 --Click on-- {{web > DevAssure > userEmail}} 
---Input value-- [[santhosh@devassure.io]] --in-- {{web > DevAssure > userEmail}} 
+--Input value-- [[harini@devassure.io]] --in-- {{web > DevAssure > userEmail}} 
 --Click on-- {{web > DevAssure > TextField15}} 
---Input value-- [[Sandy123]] --in-- {{web > DevAssure > TextField15}} 
+--Input value-- [[Harini]] --in-- {{web > DevAssure > TextField15}} 
 --Click on-- {{web > DevAssure > LogIn}} 
 --Click on-- {{web > DevAssure > Subscription}} 
 --Click on-- {{web > DevAssure > _20}} 
